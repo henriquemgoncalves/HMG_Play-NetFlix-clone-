@@ -76,6 +76,11 @@ const MovieMod = styled.div`
     .movieRow--listarea{
       padding-left: 0;
     }
+
+    .movieRow--left,
+    .movieRow--right{
+      opacity: 1;
+    }
   }
 
 `
