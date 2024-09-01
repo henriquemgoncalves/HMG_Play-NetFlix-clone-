@@ -92,6 +92,8 @@ const FeaturedMod = styled.section`
     }
 
     @media (max-width: 830px){
+        height: 90vh;
+
         .featured--horizontal{
             padding-left: 5px;
         }
